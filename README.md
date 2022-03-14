@@ -2,7 +2,7 @@
 # Game_Bobi_LibGDX_Android
 
 This folder contains link to the folder that contains all source code and game.
-Also this folder contains game/appliaction which is ready to install!
+Also this folder contains game/application which is ready to install!
 
 See ya :)
 
